@@ -120,34 +120,22 @@ final List<RouteModel> ksMenu = [
 ];
 
 const String ksAwardsAndActivities = "Awards & Activities";
-const String ksAward = "Award I've won";
-const String ksAwardName = "Design Award by WIT (Web Innovative Talent Award)";
-const String ksAwardLink = "https://witaward.com/result/2020";
-const String ksAwardDetails =
-    "This project aims for foreigners and Myanmar citizens who are enthusiastic about Myanmar culture, cuisine, handicrafts and who want to pay a visit to famous places in Myanmar and who want to enhance their knowledge about various ethnic groups in Myanmar.";
 const String ksActivities = "Activities I've joined";
 final List<Activity> ksActivityList = [
   Activity(
-    title: ksAward,
-    name: ksAwardName,
-    icon: kiTrophy,
-    details: ksAwardDetails,
-    link: ksAwardLink,
-  ),
-  Activity(
     title: ksActivities,
     name:
-        "TFI SCALE Program (Temasek Foundation International Specialists' Community Action andLeadership Exchange Program - Singapore)",
+        "Founder - GrowthHub Community (A tech community of 220+ developers and designers)",
     icon: kiActivity,
     details:
-        "This is a five-week Exchange Program with Singapore Polytechnic ( 3-weeks in Singapore and 2-weeks in Myanmar Learnt data analytics, design thinking and co-operation skills and applied them on the Coffee Farm Project",
+        "Founded and led a tech community of developers. Orchestrated engaging discussions, curated valuable opportunities, and organized impactful meetups and conferences to foster knowledge exchange and networking.",
   ),
   Activity(
     name:
-        "JST Japan-Asia Youth Program (Sakura Science Exchange Program - Japan)",
+        "Microsoft Learn Student Ambassador (A global program for student leaders to lead in their communities)",
     icon: kiActivity,
     details:
-        "This is a 9-days Exchange Program at Miyakonojo College, Miyazaki, Japan\nLearnt basic IOT and made the POINT Traffic Control System ( Traffic lights control system with extended functionalities such as alerts when driver recklessly drive while red light is on )",
+        "As a Microsoft Learn Student Ambassador, I had the privilege of hosting workshops and events focused on Azure services, empowering fellow students to harness the power of cloud computing and gain hands-on experience with cutting-edge technology. These workshops were designed to introduce participants to various Azure services, offering practical insights into cloud computing concepts and real-world applications.",
   ),
 ];
 
