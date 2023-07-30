@@ -30,7 +30,7 @@ class Shubh extends StatelessWidget {
   Widget build(BuildContext context) {
     return Layout(
       child: MaterialApp(
-        title: 'yelwinoo',
+        title: 'Shubh Portfolio',
         scrollBehavior: AppScrollBehavior(),
         debugShowCheckedModeBanner: false,
         theme: context.theme(),
