@@ -72,9 +72,9 @@ const String ksWhatILove = "What I Love To Do";
 const String ksBriefAboutMe =
     "Hi! I'm a Front-end Software Engineer who is passionate about emerging Technologies and AI. I have fairly extensive amount of experience in developing high quality applications. I often work on freelance projects.";
 const String ksMyLife =
-    "I was a third year student from the University School of Automation & Robotics, GGSIPU, Delhi.";
+    "I am a third year student from the University School of Automation & Robotics, GGSIPU, Delhi pursuing my B.Tech";
 const String ksProfession =
-    "I started working with Flutter in since 2022. Later, I fell in love with it. I'm eager to contribute in Flutter community.";
+    "I started working with Flutter since early 2022. Later, I fell in love with it. I'm eager to contribute in Flutter community.";
 
 const String ksMyTools =
     "I use a bunch of tools and technologies to make design and implementation process easier. ";
@@ -88,17 +88,17 @@ final List<String> ksWebTech = [
   'HTML',
   'CSS',
   'Three Js',
-  'C',
-  'Java',
+  'ReactJs',
+  'Nextjs',
 ];
 final List<String> ksOtherTech = [
   'Firebase',
   'PlanetSale',
-  'GraphQL',
+  'NodeJs',
   'Appwrite',
   'MongoDB',
   'SQL',
-  'Python',
+  'ExpressJs',
 ];
 
 const String ksCoding = "Software Engineering";
