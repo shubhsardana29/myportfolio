@@ -150,10 +150,10 @@ class _IntroductionPageState extends State<IntroductionPage>
                   width: s50,
                 ),
             AnimatedHoverLink(
-              label: ksDiscord,
+              label: ksTwitter,
               controller: _controller,
             ).addInkWell(
-              onTap: ksDiscordLink.launchWebsite,
+              onTap: ksTwitterLink.launchWebsite,
             ),
           ].addRow(),
         ].addColumn(
